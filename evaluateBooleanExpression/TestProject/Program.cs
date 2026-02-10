@@ -16,7 +16,7 @@ else if (permission.Contains("Manager"))
 {
     if (level >= 20)
     {
-        Console.WriteLine("Contact and Admin for access.");
+        Console.WriteLine("Contact an Admin for access.");
     }
     else
     {
