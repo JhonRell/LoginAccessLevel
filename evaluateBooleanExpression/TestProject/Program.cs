@@ -20,12 +20,12 @@ else if (permission.Contains("Manager"))
     }
     else
     {
-        Console.WriteLine("You do not have sufficient priveleges.");
+        Console.WriteLine("You do not have sufficient privileges.");
     }
 }
 else
 {
-    Console.WriteLine("You do not have sufficient priveleges.");
+    Console.WriteLine("You do not have sufficient privileges.");
 }
 
 /* Random coin = new Random();
